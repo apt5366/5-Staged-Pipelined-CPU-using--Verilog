@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/ayush/Downloads/Lab0_CMPEN331_Summer2020/Final_lab/Final_lab.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/ayush/Downloads/Lab0_CMPEN331_Summer2020/Final_lab/Final_lab.srcs/sim_1/new/testbench.v,1608381427,verilog,,,,testbench,,,,,,,,
+C:/Users/ayush/Downloads/Lab0_CMPEN331_Summer2020/Final_lab/Final_lab.srcs/sources_1/new/PC.v,1608177682,verilog,,C:/Users/ayush/Downloads/Lab0_CMPEN331_Summer2020/Final_lab/Final_lab.srcs/sim_1/new/testbench.v,,ALU;EXE_MEM;ID_EXE;IF_ID;IM;MEM_WB;PC;adder;control_unit;data_mem;mux_1;mux_2;mux_3;mux_forw_a;mux_forw_b;reg_file;sign_extender,,,,,,,,
